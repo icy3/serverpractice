@@ -5,5 +5,8 @@ CREATE TABLE foods (
   price INT
 );
 
-insert into foods(name)
-values(tacos);
+insert into 
+foods (name
+) values ( 
+tacos
+);
